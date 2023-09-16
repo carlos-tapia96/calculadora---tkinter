@@ -1,0 +1,20 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual (virtual environment)
+env/
+
+# Archivos generados por la ejecución de Python
+*.log
+
+# Archivo de configuración específico de Python
+pycache.json
+
+# Archivos generados por IDE y editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
